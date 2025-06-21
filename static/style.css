@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    text-align: center;
+}
+form {
+    background: white;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+}
+input, textarea {
+    width: 90%;
+    margin: 10px 0;
+    padding: 8px;
+}
